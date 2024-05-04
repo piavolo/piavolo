@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 | Finnished| On-going|
 | ------------- | ------------- |
 | [Alpha Blog](https://github.com/piavolo/alpha-blog) | |
-| [Mercurial Chat](https://github.com/piavolo/mercurial_chat) |
-| . |
-| . |
-| . |
+| [Mercurial Chat](https://github.com/piavolo/mercurial_chat) | |
+| [Univ App](https://github.com/piavolo/univ-app) | |
+| . |  |
+| . |  |
 | . |  |
 | . |  |
 | . |  |
