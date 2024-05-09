@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 | Finnished| On-going|
 | ------------- | ------------- |
-| [Alpha Blog](https://github.com/piavolo/alpha-blog) | |
+| [Alpha Blog](https://github.com/piavolo/alpha-blog) | [Finance Tracker](https://github.com/piavolo/finance-tracker) |
 | [Mercurial Chat](https://github.com/piavolo/mercurial_chat) | |
 | [Univ App](https://github.com/piavolo/univ-app) | |
 | . |  |
